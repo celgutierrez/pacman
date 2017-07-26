@@ -5,7 +5,17 @@ pacman = {
     y: 6
 };
 
-//building map
+stinky = {
+    x: 6,
+    y: 5
+};
+
+twinky = {
+    x: 7,
+    y: 5
+};
+
+//building map 
 var map = [
     [1,1,1,1,1,1,1,1,1,1,1,1,1,1],
     [1,2,2,2,2,2,1,1,2,2,2,2,2,1],
