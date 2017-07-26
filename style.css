@@ -1,0 +1,38 @@
+.wall,
+.coin,
+.ghost1,
+.ghost2,
+.ground,
+.pacman {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+
+.wall {
+    background-image: url('wall.png');
+}
+
+.coin {
+    background-image: url('coin.png');
+}
+
+.ground {
+    background-image: url('bg.png');
+}
+
+.ghost1 {
+    background-image: url('ghost2.png');
+}
+
+.ghost2 {
+    background-image: url('ghost1.png');
+}
+
+.pacman {
+    background-image: url('pacman.png');
+}
+
+div {
+    line-height: 0px;
+}
